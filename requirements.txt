@@ -163,7 +163,6 @@ pluggy==0.13.1
 ply==3.11
 prometheus-client==0.8.0
 protobuf==3.14.0
-psutil @ file:///C:/ci/psutil_1598370330503/work
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAutoGUI==0.9.52
