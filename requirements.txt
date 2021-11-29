@@ -81,7 +81,6 @@ pyrsistent==0.18.0
 pysmi==0.3.4
 pysnmp==4.4.12
 python-dateutil==2.8.2
-pywinpty==1.1.6
 PyYAML==6.0
 pyzmq==22.3.0
 requests==2.26.0
